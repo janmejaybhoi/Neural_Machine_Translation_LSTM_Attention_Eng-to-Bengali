@@ -7,4 +7,4 @@
 2. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 
 **Model Architecture**
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![model](https://github.com/janmejaybhoi/Neural_Machine_Translation_LSTM_Attention_Eng-to-Bengali/blob/main/model.png)
