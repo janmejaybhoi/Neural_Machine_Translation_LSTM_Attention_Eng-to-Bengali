@@ -1,1 +1,2 @@
-# Neural_Machine_Translation_LSTM_Attention_Eng-to-Bengali
+# Neural Machine Translation (LSTM + Attention)
+
